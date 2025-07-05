@@ -6,7 +6,7 @@ voice_sample*
 user*
 !user6.wav
 
-voice_model.pkl
+# voice_model.pkl
 
 Nitya.wav
 papa.wav
