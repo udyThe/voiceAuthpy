@@ -1,4 +1,4 @@
-__pycache__
+__pycache__/
 
 voice_sample*
 !voice_sample1.wav
@@ -6,8 +6,8 @@ voice_sample*
 user*
 !user6.wav
 
-mummy.waw
+
 Nitya.wav
 papa.wav
 Uday.wav
-
+mummy.wav
